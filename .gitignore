@@ -1,0 +1,77 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# AWS credentials and config
+.aws/credentials
+.aws/config
+
+# dotenv environment variables file
+.env
+
+# Compiled output
+dist/
+build/
+
+# SASS cache
+.sass-cache/
+
+# Optional stylelint cache
+.stylelintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional coverage directory used by tools like istanbul
+coverage/
+
+# IntelliJ IDEA
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Coverage directory used by Jest
+coverage/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Temporary files
+*.tmp
+*.swp
+*~
